@@ -1,0 +1,160 @@
+*{
+    margin: 0px;
+    padding: 6px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+body {
+  background-image: url("https://www.hdcarwallpapers.com/walls/genesis_g90_2022_4k-HD.jpg");
+  background-repeat: no-repeat;
+  background-size: 110%;
+  background-color: rgb(255, 255, 255);
+}
+
+.intro{
+    margin: -5%;
+    padding: -1%;
+    background: rgba(0, 0, 0, 0.477);
+    padding-top: 4.5%;
+    padding-left: 6%;
+   
+}
+.pkchs{
+  color: rgb(255, 255, 255, 247);
+  padding-top: 3%;
+  padding-left: 6%;
+  font-size: large;
+}
+.logo {
+  padding-top: 0;
+  right: 5%;
+}
+.menu-bar {
+    margin: -53px;
+    padding: 3px;
+    padding-left: 8%;
+    text-decoration: none;
+    font-size: smaller;
+}
+.menu-bar ul {
+  list-style: none;
+  display: flex;
+}
+.menu-bar ul li {
+  padding: 10px 20px;
+  position: relative;
+}
+.menu-bar ul li a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  transition: all 0.3s;
+}
+.menu-bar ul li a:hover {
+  color: rgba(235, 125, 0, 0.758);
+}
+.lngage{
+  position: fixed;
+  color: aliceblue;
+  padding-left: 95%;
+  font-size: large;
+  font-weight: bold;
+}
+.design1{
+    padding-top: 3.5%;
+    padding-left: 8%;
+}
+video {
+  padding-top: 0.5%;
+  margin-left: -2%;
+  width: 105%;
+}
+.colab{
+  color: rgb(255, 255, 255);
+  padding-left: 6%;
+  padding-top: 16%;
+  font-size: xx-large;
+}
+.mater1{
+  padding-left: 1%;
+  padding-top: 1%;
+}
+.blackedge{
+  margin: auto;
+  padding-top: 0.5%;
+  margin-left: -2%;
+  width: 105%;
+}
+.mater2{
+  color: rgb(0, 0, 0);
+  padding-left: 1%;
+  padding-top: 1%;
+  font-size: large;
+}
+.galy1{
+  margin: -3%;
+    width: 73%;
+    float: left;
+    padding-top: 7.5%;
+    padding-left: 0%;
+}
+.galy2{
+    shape-margin: 98%;
+    width: 56%;
+    float: left;
+    padding-top: 3.5%;
+    padding-left: 1%;
+    padding-right: 55%;
+    
+}
+style{
+  color: rgba(255, 119, 0, 0.623);
+}
+.matter3{
+  color: rgb(0, 0, 0);
+    width: 30%;
+    float: right;
+    font-size: medium;
+    line-height: 212%;
+    padding-top: 4.5%;
+}
+.video2 {
+  shape-margin: 98%;
+  float: right;
+  padding-right: 0%;
+  padding-top: 13%;
+  width: 64%;
+}
+.matter4{
+  color: rgb(0, 0, 0);
+    width: 34%;
+    float: left;
+    font-size: medium;
+    line-height: 212%;
+    padding-top: 14.5%;
+}
+.img3{
+    padding-left: 6%;
+}
+.img6{
+  width: 101%;
+  float: right;
+  font-size: medium;
+  padding-top: 6.5%;
+}
+.matter5{
+  color: rgb(0, 0, 0);
+    width: 99%;
+    float: right;
+    font-size: medium;
+    line-height: 212%;
+    padding-top: 4.5%;
+}
+.design4{
+  padding-top: 33.5%;
+  padding-left: 46%;
+  font-size: xxx-large;
+}
+.phpt{
+  padding-top: 14%;
+}

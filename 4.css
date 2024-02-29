@@ -1,0 +1,252 @@
+* {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+	background-image: url("https://www.genesis.com/content/dam/genesis-p2/worldwide/assets/models/gv70/22my/highlights/genesis-ww-gv70-highlight-dynamic-design-1920x800.jpg");
+	background-repeat: no-repeat;
+	background-size: 136%;
+	background-color: rgb(255, 255, 255);
+}
+
+.intro {
+	margin: -5%;
+	padding: -1%;
+	background: rgba(0, 0, 0, 0.477);
+	padding-top: 4.5%;
+	padding-left: 6%;
+
+}
+
+.pkchs {
+	color: rgb(255, 255, 255, 247);
+	padding-top: 3%;
+	padding-left: 6%;
+	font-size: large;
+}
+
+.logo {
+	padding-top: 0;
+	right: 5%;
+}
+
+.menu-bar {
+	padding: inherit;
+	padding-left: 12%;
+	text-decoration: none;
+	font-size: smaller;
+	padding-top: 72px;
+}
+
+.menu-bar ul {
+	list-style: none;
+	display: flex;
+}
+
+.menu-bar ul li {
+	padding: 10px 20px;
+	position: relative;
+}
+
+.menu-bar ul li a {
+	color: rgb(255, 255, 255);
+	text-decoration: none;
+	transition: all 0.3s;
+}
+
+.menu-bar ul li a:hover {
+	color: rgba(235, 125, 0, 0.758);
+}
+
+.lngage {
+	position: fixed;
+	color: aliceblue;
+	padding-left: 95%;
+	font-size: large;
+	font-weight: bold;
+}
+
+.design1 {
+	padding-top: 3.5%;
+	padding-left: 8%;
+}
+
+video {
+	padding-top: 4.5%;
+	margin-left: -2%;
+	width: 105%;
+}
+
+.colab {
+	color: rgb(255, 255, 255);
+	padding-left: 6%;
+	padding-top: 8%;
+	font-size: xx-large;
+	line-height: 21px;
+}
+
+.mater1 {
+	padding-top: 7%;
+}
+
+.blackedge {
+	margin: -9%;
+    margin-left: -31%;
+    width: 105%;
+}
+
+.mater2 {
+	margin-top: -7%;
+	padding-left: 6%;
+	color: #ffffff75;
+	font-size: smaller;
+	width: 67%;
+	padding-bottom: 6%;
+}
+
+.galy1 {
+	margin: -3%;
+	width: 69%;
+	float: left;
+	padding-top: 7.5%;
+	padding-left: 0%;
+}
+
+.galy2 {
+	shape-margin: 98%;
+	width: 56%;
+	float: left;
+	padding-top: 3.5%;
+	padding-left: 1%;
+	padding-right: 55%;
+
+}
+
+style {
+	color: rgba(255, 119, 0, 0.623);
+}
+
+.matter3 {
+	color: rgb(0, 0, 0);
+	width: 30%;
+	float: right;
+	font-size: medium;
+	line-height: 212%;
+	padding-top: 4.5%;
+}
+
+.video2 {
+	shape-margin: 98%;
+	float: right;
+	padding-right: 0%;
+	padding-top: 13%;
+	width: 64%;
+}
+
+.matter4 {
+	color: rgb(0, 0, 0);
+	width: 34%;
+	float: left;
+	font-size: medium;
+	line-height: 212%;
+	padding-top: 14.5%;
+}
+
+.img3 {
+	padding-left: 6%;
+	padding-bottom: 100px;
+}
+
+.img6 {
+	width: 101%;
+	float: right;
+	font-size: medium;
+	padding-top: 6.5%;
+}
+
+.matter5 {
+	color: rgb(0, 0, 0);
+	width: 99%;
+	float: right;
+	font-size: medium;
+	line-height: 212%;
+	padding-top: 4.5%;
+}
+
+.design4 {
+	padding-top: 128.5%;
+	padding-left: 44%;
+	font-size: xxx-large;
+	padding-bottom: 135px;
+}
+
+.phpt {
+	padding-left: 43%;
+	padding-top: 14%;
+	FONT-SIZE: x-large;
+}
+
+.img7 {
+	padding-left: 38%;
+	padding-top: 4%;
+}
+
+.img8 {
+	padding-left: 38%;
+	padding-top: 1%;
+}
+
+.img9 {
+	width: 100%;
+	float: right;
+	font-size: medium;
+	padding-top: 6.5%;
+	padding-left: 0%;
+}
+
+.matter10 {
+	color: rgb(0, 0, 0);
+	width: 99%;
+	float: right;
+	font-size: medium;
+	line-height: 212%;
+	padding-top: 4.5%;
+}
+
+.sites {
+	padding-left: 5%;
+	padding-top: 5%;
+	font-size: small;
+	float: left;
+}
+
+.sites1 {
+	padding-left: 18%;
+	padding-top: 4%;
+	font-size: smaller;
+	float: left;
+}
+
+.h {
+	width: 282px;
+	height: 1px;
+	padding-top: 5%;
+}
+
+.h2 {
+	width: 152px;
+	margin-left: 70%;
+}
+
+.sites2 {
+	padding-left: 7%;
+	padding-top: 0%;
+	font-size: smaller;
+	float: left;
+}
+
+.rights {
+	padding-left: 5%;
+	padding-top: 20%;
+	font-size: x-small;
+}
